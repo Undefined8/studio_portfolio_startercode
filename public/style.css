@@ -1,25 +1,5 @@
-/* Nav Bar CSS */
-
-
-/* Header CSS */
-
-
-
-/* Section CSS */
-
-
-
-/* About Section CSS */
-
-
-
-/* Portfolio Item CSS */
-
-
-
-/* Footer CSS */
-
-
-
-/* Button CSS */
-
+.projects {
+    width: 100px;
+    height: 150px;
+    background-color: green;
+}

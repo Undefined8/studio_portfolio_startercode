@@ -1,5 +1,6 @@
 .projects {
-    width: 100px;
+    width: 140px;
     height: 150px;
     background-color: green;
+    margin-bottom: 10px;
 }

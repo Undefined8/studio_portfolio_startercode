@@ -28,4 +28,3 @@ projects_ref.once('value', function(snapshot) {
     }
 });
 
-var projects = snapshot.val();
